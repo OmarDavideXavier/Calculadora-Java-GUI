@@ -7,7 +7,7 @@ com funcionalidades básicas de operações aritméticas e algumas funções de 
 
 ## 📸 Captura de Tela
 
-*(adicione aqui uma imagem do aplicativo rodando, se desejar)*
+<img width="365" height="451" alt="Image" src="https://github.com/user-attachments/assets/23f82cc6-c706-4660-87be-5dc825166cc3" />
 
 ---
 
